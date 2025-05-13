@@ -43,7 +43,7 @@ JavaScript (Vanilla)
 bash
 Copy
 Edit
-git clone https://github.com/YOUR_USERNAME/galactic-tic-tac-toe.git
+git clone https://github.com/PJCOEX/galactic-tic-tac-toe.git
 cd galactic-tic-tac-toe
 open index.html   # or use Live Server in VS Code
 
