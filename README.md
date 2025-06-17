@@ -34,6 +34,7 @@ Responsive design
 Restart option
 
 🛠️ Tech Used
+
 HTML
 
 CSS
