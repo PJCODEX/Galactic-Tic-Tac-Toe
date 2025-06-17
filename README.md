@@ -11,6 +11,7 @@ galactic-tic-tac-toe/
 └── script.js      # Game logic
 
 🎮 How to Play
+
 Player 1 is Galactic Alliance (X)
 
 Player 2 is Cosmic Federation (O)
