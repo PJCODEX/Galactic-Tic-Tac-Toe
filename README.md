@@ -10,16 +10,16 @@ galactic-tic-tac-toe/
 ├── style.css       # Galactic-themed styling
 └── script.js       # Game logic and interactions
 
-🎮 How to Play
+🎮 How to Play <br>
 Player 1 is Galactic Alliance (X)
 
-Player 2 is Cosmic Federation (O)
+Player 2 is Cosmic Federation (O) </br>
 
 🔹 Players take turns clicking on empty cells
 🔹 First to align three of their symbols (horizontally, vertically, or diagonally) wins
 🔹 If all cells are filled and no winner, the game ends in a draw
 
-🚀 Features
+🚀 Features <br>
 ✅ Clean, mobile-friendly user interface
 
 ✨ Smooth hover and click animations
@@ -28,7 +28,7 @@ Player 2 is Cosmic Federation (O)
 
 📱 Fully responsive design for all screen sizes
 
-🔄 Restart option to play again instantly
+🔄 Restart option to play again instantly </br>
 
 🛠️ Built With
 HTML5 – for the structure
